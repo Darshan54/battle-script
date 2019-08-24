@@ -1,2 +1,2 @@
 # battle-script
-Battlescript using Python
+Command-Line Battlescript using Python
